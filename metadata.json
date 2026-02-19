@@ -1,0 +1,4 @@
+{
+  "name": "SpectroVis Pro",
+  "description": "Real-time spectral analysis dashboard for TCS3448/AS7341 spectrometers via Web Serial."
+}
